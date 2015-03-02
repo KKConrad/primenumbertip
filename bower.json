@@ -1,0 +1,18 @@
+{
+  "name": "primenumcalc",
+  "version": "0.0.0",
+  "authors": [
+    "kc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
